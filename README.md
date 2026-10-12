@@ -16,6 +16,13 @@
   <img src="https://img.shields.io/badge/CLASS-CYBER_SECURITY_OPS-FF003C?style=for-the-badge&logo=shield&logoColor=white&labelColor=0d0202" />
 </p>
 
+<!-- LAUNCH FULLSCREEN MATRIX WEB TERMINAL -->
+<p align="center">
+  <a href="https://zackpham21.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/%E2%9A%A0%EF%B8%8F_ENTER_FULL_MATRIX_ENVIRONMENT-LAUNCH_TERMINAL-FF003C?style=for-the-badge&logo=matrix&logoColor=white&labelColor=1a0005" height="38" />
+  </a>
+</p>
+
 </div>
 
 ---
