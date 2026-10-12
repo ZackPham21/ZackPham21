@@ -31,10 +31,10 @@
 ```ini
 ┌────────────────────────────────────────────────────────────────────────┐
 │ [SYSTEM_TELEMETRY]                                                     │
-│ OPERATOR     :: QUAN PHAM (ZACK) [UID: 0 // GID: 0]                   │
+│ OPERATOR     :: QUAN PHAM (ZACK) [UID: 0 // GID: 0]                    │
 │ HOST         :: MATRIX-NODE-21 (CYBERSPACE_CORE)                       │
-│ OS_KERNEL    :: HARDENED-LINUX-6.8.0-SEC / TAILS-DEBIAN               │
-│ CLEARANCE    :: TOP SECRET // SCI-LEVEL-5                             │
+│ OS_KERNEL    :: HARDENED-LINUX-6.8.0-SEC / TAILS-DEBIAN                │
+│ CLEARANCE    :: TOP SECRET // SCI-LEVEL-5                              │
 │ THREAT_LEVEL :: ELEVATED // DEFCON 2                                   │
 │ STATUS       :: [ONLINE] ALL DAEMONS ARMED & LISTENING                 │
 │ INTEGRITY    :: 99.98% UPTIME // ZERO BREACHES TOLERATED               │
