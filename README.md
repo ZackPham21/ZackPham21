@@ -3,19 +3,19 @@
 <!-- ASCII GLITCH HERO HEADER -->
 <pre align="center">
 <font color="#FF003C">
-███████╗ █████╗  ██████╗██╗  ██╗    ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗
-╚══███╔╝██╔══██╗██╔════╝██║ ██╔╝    ██╔══██╗██║  ██║██╔══██╗████╗ ████║
-  ███╔╝ ███████║██║     █████╔╝     ██████╔╝███████║███████║██╔████╔██║
- ███╔╝  ██╔══██║██║     ██╔═██╗     ██╔═══╝ ██╔══██║██╔══██║██║╚██╔╝██║
-███████╗██║  ██║╚██████╗██║  ██╗    ██║     ██║  ██║██║  ██║██║ ╚═╝ ██║
-╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+ ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗    ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗
+██╔═══██╗██║   ██║██╔══██╗████╗  ██║    ██╔══██╗██║  ██║██╔══██╗████╗ ████║
+██║   ██║██║   ██║███████║██╔██╗ ██║    ██████╔╝███████║███████║██╔████╔██║
+██║▄▄ ██║██║   ██║██╔══██║██║╚██╗██║    ██╔═══╝ ██╔══██║██╔══██║██║╚██╔╝██║
+╚██████╔╝╚██████╔╝██║  ██║██║ ╚████║    ██║     ██║  ██║██║  ██║██║ ╚═╝ ██║
+ ╚══▀▀═╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
 </font>
-<code>&lt;! SYSTEM COMPROMISED // RED MATRIX SHELL: ACTIVE // CLEARANCE: ROOT !&gt;</code>
+<code>&lt;! OPERATOR: QUAN PHAM (ZACK) // RED MATRIX SHELL: ACTIVE // CLEARANCE: ROOT !&gt;</code>
 </pre>
 
 <!-- DYNAMIC RED MATRIX TYPING ANIMATION -->
 <a href="https://zackpham21.github.io" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF003C&background=00000000&center=true&vCenter=true&width=750&lines=%5B%2B%5D+INITIALIZING+SECURE+SHELL%3A+SSH+OPERATOR%40RED-MATRIX;%5B%2B%5D+IDENTITY%3A+ZACK+PHAM+%2F%2F+CYBERSECURITY+ENGINEER;%5B%2B%5D+MISSION%3A+MALWARE+REVERSE-ENG+%2B+THREAT+INTELLIGENCE;%5B%2B%5D+DEFENSE%3A+APPLIED+ML+PHISHING+DETECTION+PIPELINES;%5B%2B%5D+PAYLOAD%3A+YARA+HEURISTIC+ANALYSIS+%2B+CTF+OPS;%5B%2B%5D+STATUS%3A+RED_PILL_PROTOCOL+ENGAGED...&repeat=true" alt="Cyber Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF003C&background=00000000&center=true&vCenter=true&width=750&lines=%5B%2B%5D+INITIALIZING+SECURE+SHELL%3A+SSH+OPERATOR%40RED-MATRIX;%5B%2B%5D+IDENTITY%3A+QUAN+PHAM+(ZACK)+%2F%2F+CYBERSECURITY;%5B%2B%5D+MISSION%3A+MALWARE+REVERSE-ENG+%2B+THREAT+INTEL;%5B%2B%5D+DEFENSE%3A+APPLIED+ML+PHISHING+DETECTION+PIPELINES;%5B%2B%5D+PAYLOAD%3A+YARA+HEURISTIC+ANALYSIS+%2B+CTF+OPS;%5B%2B%5D+STATUS%3A+RED_PILL_PROTOCOL+ENGAGED...&repeat=true" alt="Cyber Typing Header" />
 </a>
 
 <br/><br/>
@@ -25,27 +25,28 @@
   <img src="https://img.shields.io/badge/%E2%9A%A0%EF%B8%8F_EXECUTE_FULL_MATRIX_ENVIRONMENT-LAUNCH_TERMINAL_UI-FF003C?style=for-the-badge&logo=matrix&logoColor=white&labelColor=150005" height="42" />
 </a>
 
-<br/><br/>
-
-<!-- SYSTEM DIAGNOSTIC TELEMETRY -->
-```ini
-[SYSTEM_TELEMETRY]
-HOST         :: MATRIX-NODE-21 (CYBERSPACE_CORE)
-OS_KERNEL    :: HARDENED-LINUX-6.8.0-SEC / TAILS-TAINTED
-CLEARANCE    :: TOP SECRET // SCI-LEVEL-5
-THREAT_LEVEL :: ELEVATED // DEFCON 2
-STATUS       :: 🟢 ALL DAEMONS ARMED & LISTENING
-UPTIME       :: 99.98% // ZERO BREACHES TOLERATED
-```
-
 </div>
+
+<!-- SYSTEM DIAGNOSTIC TELEMETRY (LEFT-ALIGNED MONOSPACE FOR PERFECT ALIGNMENT) -->
+```ini
+┌────────────────────────────────────────────────────────────────────────┐
+│ [SYSTEM_TELEMETRY]                                                     │
+│ OPERATOR     :: QUAN PHAM (ZACK) [UID: 0 // GID: 0]                   │
+│ HOST         :: MATRIX-NODE-21 (CYBERSPACE_CORE)                       │
+│ OS_KERNEL    :: HARDENED-LINUX-6.8.0-SEC / TAILS-DEBIAN               │
+│ CLEARANCE    :: TOP SECRET // SCI-LEVEL-5                             │
+│ THREAT_LEVEL :: ELEVATED // DEFCON 2                                   │
+│ STATUS       :: [ONLINE] ALL DAEMONS ARMED & LISTENING                 │
+│ INTEGRITY    :: 99.98% UPTIME // ZERO BREACHES TOLERATED               │
+└────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
 ### 🖥️ `/etc/syslog.d/auth.log` // AUDIT TRACE
 
 ```bash
-[2026-10-11 22:50:01] [AUTH]   session opened for operator "zackpham" (uid=0, gid=0)
+[2026-10-11 22:50:01] [AUTH]   session opened for operator "quanpham (zack)" (uid=0, gid=0)
 [2026-10-11 22:50:02] [ML-SEC] Gmail API ingestion pipeline: 4,820 samples classified [Accuracy: 99.4%]
 [2026-10-11 22:50:03] [YARA]   Compiled rule-set: APT_Threat_Signatures_v2.yar [Engine: OK]
 [2026-10-11 22:50:04] [CTF]    Malware simulation payload sandbox: isolated execution complete
@@ -133,7 +134,7 @@ UPTIME       :: 99.98% // ZERO BREACHES TOLERATED
 │                                             — Morpheus, The Matrix     │
 └────────────────────────────────────────────────────────────────────────┘
 
-CORE PROTOCOLS:
+OPERATOR DIRECTIVES // QUAN PHAM (ZACK):
 1. DEFENSE IN DEPTH: Assume perimeter compromise; harden internal logic.
 2. CONTINUOUS AUDIT: Every packet inspected, every payload disassembled.
 3. ADVERSARIAL AI: Train models to detect what rule-based firewalls miss.
@@ -147,13 +148,8 @@ CORE PROTOCOLS:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZackPham21&show_icons=true&bg_color=050505&title_color=FF003C&text_color=B0B0B0&icon_color=FF003C&border_color=FF003C&hide_border=false" alt="Zack's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ZackPham21&show_icons=true&bg_color=050505&title_color=FF003C&text_color=B0B0B0&icon_color=FF003C&border_color=FF003C&hide_border=false" alt="Quan Pham's GitHub Stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZackPham21&layout=compact&bg_color=050505&title_color=FF003C&text_color=B0B0B0&border_color=FF003C&hide_border=false" alt="Top Languages" width="48%" />
-
-<br/><br/>
-
-<!-- ACTIVITY COMMIT GRAPH (RED MATRIX NEON THEME) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZackPham21&theme=react-dark&bg_color=050505&color=FF003C&line=FF003C&point=FFFFFF&area=true&hide_border=false&border=FF003C" alt="Activity Graph" width="97%" />
 
 <br/><br/>
 
